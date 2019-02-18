@@ -14,6 +14,7 @@ public class Main {
     public static void main(String[] args) {
         BasicConfigurator.configure();
         //TODO: nothing to do
+		//123
         LOG.warn("Hello World!!!");
     }
 }
