@@ -4,7 +4,7 @@
 
     <groupId>com.sonatype.training.nxs301</groupId>
     <artifactId>maven-deploy</artifactId>
-    <version>1.0.7-SNAPSHOT</version>
+    <version>1.0.8-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
