@@ -12,6 +12,7 @@
         <connection>scm:git:https://github.com/guhe283/test2.git</connection>
         <url>https://github.com/guhe283/test2/tree/master/maven-art-15-deployment-remote</url>
       <tag>HEAD</tag>
+        <url>https://github.com/guhe283/test2/tree/master/maven-art-15-deployment-remote</url>
   </scm>
 
    <distributionManagement>
