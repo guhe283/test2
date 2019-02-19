@@ -12,10 +12,10 @@
         <connection>scm:git:https://github.com/guhe283/test2.git</connection>
         <url>https://github.com/guhe283/test2/tree/master/maven-art-15-deployment-remote</url>
       <tag>HEAD</tag>
-        <url>https://github.com/guhe283/test2/tree/master/maven-art-15-deployment-remote</url>
+     
   </scm>
 
-   <distributionManagement>
+  <distributionManagement>
         <repository>
             <id>art-releases</id>
             <url>http://nexus3:8081/repository/maven-releases/</url>
@@ -26,9 +26,10 @@
         </snapshotRepository>
         <site>
             <id>art-site</id>
-            <url>dav:http://nexus3:8081/repository/site/${project.groupId}/${artifactId}</url>
+            <url>dav:http://nexus3:8081/repository/site/${groupId}/${artifactId}</url>
         </site>
     </distributionManagement>
+
 
 
     <properties>
