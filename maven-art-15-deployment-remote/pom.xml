@@ -8,7 +8,7 @@
     <version>1.0.9-SNAPSHOT</version>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/guhe283/test2.git</developerConnection>
+        <developerConnection>scm:git:git:https://github.com/guhe283/test2.git</developerConnection>
         <connection>scm:git:https://github.com/guhe283/test2.git</connection>
         <url>https://github.com/guhe283/test2/tree/master/maven-art-15-deployment-remote</url>
       <tag>HEAD</tag>
