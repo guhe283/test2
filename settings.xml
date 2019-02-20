@@ -282,7 +282,7 @@ under the License.
             <repository>
                 <id>art-snapshots</id>
                 <name>ART Snapshots</name>
-                <url>http://nexus3:8081/repository/maven-snapshots/</url>
+             <url>http://nexus3:8081/repository/maven-snapshots/</url>
                 <layout>default</layout>
                 <releases>
                     <enabled>false</enabled>
@@ -294,7 +294,8 @@ under the License.
             <repository>
                 <id>art-releases</id>
                 <name>ART Repository</name>
-                <url>http://nexus3:8081/repository/maven-releases/</url>
+                <!--<url>http://nexus3:8081/repository/maven-releases/</url>-->
+                <url>http://localhost:8081/repository/maven-releases/</url>
                 <layout>default</layout>
                 <releases>
                     <enabled>true</enabled>
