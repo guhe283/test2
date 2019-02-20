@@ -127,7 +127,7 @@
     </dependencies>
 
     <profiles>
-        <profile>
+        <!--<profile>
             <id>dev</id>
             <properties>
                 <mode>dev</mode>
@@ -137,7 +137,7 @@
                     <filter>src/main/filters/dev.properties</filter>
                 </filters>
             </build>
-        </profile>
+        </profile>-->
         <profile>
             <id>prod</id>
             <activation>
