@@ -152,7 +152,7 @@
                 </filters>
             </build>
         </profile>
-    </profiles>->>
+    </profiles>-->
 
     <reporting>
         <plugins>
