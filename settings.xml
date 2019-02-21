@@ -150,6 +150,12 @@ under the License.
       <username>guhe283@gmail.com</username>
       <password>Rocky2007</password>
     </server>
+   
+   <server>
+      <id>jgit</id>
+      <username>guhe283@gmail.com</username>
+      <password>Rocky2007</password>
+    </server>
   </servers>
  
   <!-- mirrors
